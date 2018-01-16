@@ -37,7 +37,7 @@ var movies = [
     id: 4,
     title: 'Człowiek który poznał nieskończonść',
     desc: 'Film o genialnym matematyku-samouku Srinivasa Ramanujan',
-    img: './img/człowiek_nieskonczonosc.jpg'
+    img: './img/czlowiek_nieskonczonosc.jpg'
   }
 ];
 
